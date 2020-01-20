@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: Page
 tags: [getting_started, formatting, content_types]
 keywords: pages, authoring, exclusion, frontmatter
 last_updated: July 16, 2016
